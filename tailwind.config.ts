@@ -56,6 +56,7 @@ const config = {
         accent: {
           DEFAULT: "#FF6B35",
           foreground: "#FFFFFF",
+          orange: "#FF6B00",
         },
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
